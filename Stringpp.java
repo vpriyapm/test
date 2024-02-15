@@ -19,6 +19,7 @@ System.out.println("The character of "+first+"is :"+first.charAt(0));
 System.out.println("The uppercase of"+first+"is:"+first.toUpperCase());
 System.out.println("The Substrinf of the "+first+" Starting from index 3 ans ending at 6 is:"+first.substring(3,7));
 System.out.println("Replacing 'a' with 'o' in"+first.replace('a','o'));}
+//new change
 }
 }
 
