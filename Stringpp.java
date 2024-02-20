@@ -7,7 +7,7 @@ String first=" ",second=" ";
 Scanner s=new Scanner(System.in);
 System.out.println("String operation");
 System.out.println();
-System.out.println("Enter the first string");
+System.out.println("Enter the third string");
 first=s.nextLine();
 System.out.println("Enter the second string");
 second=s.nextLine();
