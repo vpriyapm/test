@@ -9,7 +9,7 @@ System.out.println("String operation");
 System.out.println();
 System.out.println("Enter the third string");
 first=s.nextLine();
-System.out.println("Enter the second string");
+System.out.println("Enter the first string");
 second=s.nextLine();
 System.out.println("The string are:"+first+" "+second);
 System.out.println("THe length of the first string is:"+first.length());
